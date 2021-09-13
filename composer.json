@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "OliverHader\\Demo91787\\": "Classes/"
+      "TYPO3\\Demo91787\\": "Classes/"
     }
   },
   "extra": {

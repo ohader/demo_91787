@@ -1,6 +1,5 @@
 <?php
-
-namespace OliverHader\Demo91787;
+namespace TYPO3\Demo91787;
 
 use TYPO3\CMS\Backend\Form\Behavior\OnFieldChangeInterface;
 use TYPO3\CMS\Core\Utility\GeneralUtility;
