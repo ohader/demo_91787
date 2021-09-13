@@ -1,0 +1,32 @@
+
+{
+  "name": "oliverhader/demo-91787",
+  "type": "typo3-cms-extension",
+  "description": "Forge #91787 Demo",
+  "homepage": "https://typo3.org/",
+  "license": ["GPL-2.0-or-later"],
+  "keywords": ["TYPO3", "backend"],
+  "authors": [
+    {
+      "name": "Oliver Hader",
+      "email": "oliver.hader@typo3.org",
+      "homepage": "https://xn--hofhckerei-t5a.de/"
+    }
+  ],
+  "support": {
+    "issues": "https://forge.typo3.org/issues/91787"
+  },
+  "require": {
+    "typo3/cms-core": "^11.5@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "OliverHader\\Demo91787\\": "Classes/"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "demo_91787"
+    }
+  }
+}
